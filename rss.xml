@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Eric Auld]]></title>
+        <description><![CDATA[Eric Auld]]></description>
+        <link>https://thegrid.ai/eric-auld/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 08:03:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eric-auld/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trying this out]]></title>
+            <description><![CDATA[<article><h1>Trying this out</h1><p>The Grid seems like a really difficult system to use, though I don't understand why. It should be really easy. The minimal UI and design makes me feel stupid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f63965e5-1a17-4957-842a-7c2cd0e73dba.gif"></article>]]></description>
+            <link>https://thegrid.ai/eric-auld/trying-this-out/index.html</link>
+            <guid isPermaLink="false">ff6c5926-442e-4f93-b6b2-21d867753b73</guid>
+            <pubDate>Thu, 17 Mar 2016 08:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hi, I'm Eric]]></title>
+            <description><![CDATA[<h1>Hi, I'm Eric</h1>]]></description>
+            <link>https://thegrid.ai/eric-auld/hi-im-eric/index.html</link>
+            <guid isPermaLink="false">d67d94a6-59f6-4bc9-8a94-ee92cea80d17</guid>
+            <pubDate>Fri, 23 Oct 2015 01:09:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
