@@ -1,7 +1,7 @@
 name: Eric Auld
 favicon: null
-layout_spectrum: 0.17942
-typography_spectrum: 0.6394
+layout_spectrum: 0.5171
+typography_spectrum: 0.51756
 title: Eric Auld
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000001'
-    - '#e6d6d0'
-    - '#3f1f16'
-    - '#d6a266'
-    - '#9f4d2c'
-  brandStrength: 0.5
-  lightness: 0.9375
-  saturation: 0.4375
+    - '#ffffff'
+    - '#1a1a1a'
+    - '#e500ce'
+    - '#0096ff'
+    - '#ff5f00'
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
